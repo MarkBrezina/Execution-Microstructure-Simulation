@@ -26,3 +26,17 @@ The simulation can be used to study:
 • liquidity dynamics
 • execution strategies
 • optimal trade scheduling
+
+
+Example simulation:
+
+price
+  ^
+  |
+102|       ████
+101|    █████████
+100|███████████████
+ 99|████████████
+ 98|   ███████
+      ---------------->
+      bid        ask
