@@ -14,3 +14,5 @@ Execution Algorithm
 
 Market State
     describes liquidity conditions
+
+Agent -> Order -> Matching Engine -> Order Book -> Trades
